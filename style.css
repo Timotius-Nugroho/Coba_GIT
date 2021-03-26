@@ -1,0 +1,67 @@
+img {
+	width: 165px;
+	height: 165px;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+/* body {
+} */
+
+.jumbotron {
+	/* background: rgb(0, 0, 0);
+	background: rgba(42, 38, 61, 0.82); */
+	/* background-image: linear-gradient(bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%); */
+	/* background-image: url(ImageBackground.png); */
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: #f1f1f1;
+	width: 100wh;
+	height: 100vh;
+}
+
+
+.teks {
+	width: 350px;
+}
+
+.teks1, .teks2 {
+	font-family: 'Pacifico';
+	font-weight: 400;
+	font-size: 48px;
+	line-height: 84.29px;
+}
+
+.teks2 {
+	color: #FCB371;
+;
+}
+
+.teks3 {
+	font-family: 'SF Pro Display';
+	font-weight: 400;
+	font-size: 14px;
+}
+
+.tombol .btn {
+	font-family: 'Pacifico';
+	width: 156px;
+	height: 46px;
+	border-radius: 6px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	line-height: 21px;
+}
+
+.btn-outline-warning {
+	border: 2px solid #FCB371;
+	color: #FCB371;
+}
+
+.btn-warning {
+	background: #FCB371;
+	color: #FFFFFF;
+}
